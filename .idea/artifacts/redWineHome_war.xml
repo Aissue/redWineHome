@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redWineHome:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RedWineHome.war">
+      <element id="artifact" artifact-name="redWineHome:war exploded" />
+    </root>
+  </artifact>
+</component>
